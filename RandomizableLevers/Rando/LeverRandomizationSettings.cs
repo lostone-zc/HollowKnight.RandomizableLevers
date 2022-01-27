@@ -2,14 +2,14 @@
 {
     public class LeverRandomizationSettings
     {
-        public bool DefineRefs;
+        public bool 自定义用总开关;
 
-        public bool RandomizeLevers;
+        public bool 拉杆随机;
 
         [Newtonsoft.Json.JsonIgnore]
-        public bool Any => DefineRefs || RandomizeLevers;
+        public bool Any => 自定义用总开关 || 拉杆随机;
 
         [MenuChanger.Attributes.MenuRange(-1, 99)]
-        public int LeverGroup = -1;
+        public int 拉杆随机组别 = -1;
     }
 }
