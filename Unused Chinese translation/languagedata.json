@@ -1,0 +1,317 @@
+[
+  {
+    "key": "LEVER_SHOP_DESC",
+    "sheet": "UI",
+    "text": "拉拉杆, Kronk!"
+  },
+  {
+    "key": "LEVERNAME.Switch-Dirtmouth_Stag",
+    "sheet": "UI",
+    "text": "德特茅斯站开关"
+  },
+  {
+    "key": "LEVERNAME.Switch-Outside_Ancestral_Mound",
+    "sheet": "UI",
+    "text": "祖先山丘外柱子开关"
+  },
+  {
+    "key": "LEVERNAME.Switch-Greenpath_Stag",
+    "sheet": "UI",
+    "text": "苍绿之径站外开关"
+  },
+  {
+    "key": "LEVERNAME.Switch-Lower_Resting_Grounds",
+    "sheet": "UI",
+    "text": "安息之地地板开关"
+  },
+  {
+    "key": "LEVERNAME.Switch-Petra_Arena",
+    "sheet": "UI",
+    "text": "螳螂佩特拉遭遇战下开关"
+  },
+  {
+    "key": "LEVERNAME.Switch-Queen's_Gardens_Stag",
+    "sheet": "UI",
+    "text": "王后花园站开关"
+  },
+  {
+    "key": "LEVERNAME.Switch-Crossroads_East",
+    "sheet": "UI",
+    "text": "十字路右侧开关"
+  },
+  {
+    "key": "LEVERNAME.Lever-Dung_Defender",
+    "sheet": "UI",
+    "text": "下水道酸池拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Waterways_Hwurmp_Arena",
+    "sheet": "UI",
+    "text": "下水道地图师拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Queen's_Station_Mask_Shard",
+    "sheet": "UI",
+    "text": "王后驿站面具碎片拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Queen's_Gardens_Ground_Block",
+    "sheet": "UI",
+    "text": "王后花园地面阻隔拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Below_Overgrown_Mound",
+    "sheet": "UI",
+    "text": "长满蚊子的山丘外门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Tower_of_Love",
+    "sheet": "UI",
+    "text": "爱之塔门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Resting_Grounds_Stag",
+    "sheet": "UI",
+    "text": "安息之地站拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Abyss_Lighthouse",
+    "sheet": "UI",
+    "text": "深渊灯塔拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Failed_Tramway_Right",
+    "sheet": "UI",
+    "text": "废弃车站下门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Failed_Tramway_Left",
+    "sheet": "UI",
+    "text": "废弃车站上门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Below_Spell_Twister",
+    "sheet": "UI",
+    "text": "法术扭曲者下门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Sanctum_East",
+    "sheet": "UI",
+    "text": "灵魂圣所右侧拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Sanctum_Soul_Warrior",
+    "sheet": "UI",
+    "text": "圣所灵魂战士拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Sanctum_Bottom",
+    "sheet": "UI",
+    "text": "灵魂圣所底部拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Sanctum_West_Upper",
+    "sheet": "UI",
+    "text": "灵魂圣所西侧上层拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Sanctum_West_Lower",
+    "sheet": "UI",
+    "text": "灵魂圣所西侧下层拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Fountain",
+    "sheet": "UI",
+    "text": "泪水之城喷泉门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Spire_Sentry_Lower",
+    "sheet": "UI",
+    "text": "守望者尖塔下门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Spire_Sentry_Upper",
+    "sheet": "UI",
+    "text": "守望者尖塔上门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Bridge_Above_Fountain",
+    "sheet": "UI",
+    "text": "守望者尖塔长廊门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Storerooms",
+    "sheet": "UI",
+    "text": "城市仓库门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Lemm",
+    "sheet": "UI",
+    "text": "古董商门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Above_Lemm_Right",
+    "sheet": "UI",
+    "text": "古董商上单门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Above_Lemm_Left",
+    "sheet": "UI",
+    "text": "古董商上三门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-City_Above_Lemm_Upper",
+    "sheet": "UI",
+    "text": "泪水之城虫对面门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Shade_Soul_Exit",
+    "sheet": "UI",
+    "text": "黑波门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Emilitia",
+    "sheet": "UI",
+    "text": "贵族艾米丽塔门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Mantis_Lords_Top_Left",
+    "sheet": "UI",
+    "text": "螳螂领主左上拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Mantis_Lords_Middle_Left",
+    "sheet": "UI",
+    "text": "螳螂领主左中拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Mantis_Lords_Bottom_Left",
+    "sheet": "UI",
+    "text": "螳螂领主左下拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Mantis_Lords_Middle_Right",
+    "sheet": "UI",
+    "text": "螳螂领主右中拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Mantis_Lords_Bottom_Right",
+    "sheet": "UI",
+    "text": "螳螂领主右下拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Mantis_Claw",
+    "sheet": "UI",
+    "text": "看螳螂爪拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Mantis_Lords_Access",
+    "sheet": "UI",
+    "text": "看螳螂领主拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Fungal_Wastes_Thorns_Gauntlet",
+    "sheet": "UI",
+    "text": "拜年菇古董门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Fungal_Wastes_Below_Shrumal_Ogres",
+    "sheet": "UI",
+    "text": "拜年菇下门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Fungal_Wastes_Bouncy_Grub",
+    "sheet": "UI",
+    "text": "真菌荒地弹力菇幼虫门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Dirtmouth_Elevator",
+    "sheet": "UI",
+    "text": "德特茅斯右电梯拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Crystal_Peak_Tall_Room_Upper",
+    "sheet": "UI",
+    "text": "水晶山峰高的房间上拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Crystal_Peak_Tall_Room_Middle",
+    "sheet": "UI",
+    "text": "水晶山峰高的房间中拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Crystal_Peak_Tall_Room_Lower",
+    "sheet": "UI",
+    "text": "水晶山峰高的房间下拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Crystal_Peak_Spike_Grub",
+    "sheet": "UI",
+    "text": "水晶山峰钻刺幼虫拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Crystal_Peak_Below_Chest",
+    "sheet": "UI",
+    "text": "水晶山峰钱箱下门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Crystal_Peak_Above_Chest",
+    "sheet": "UI",
+    "text": "水晶山峰钱箱上门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Crystal_Peak_Crushers_Grub",
+    "sheet": "UI",
+    "text": "水晶山峰幼虫机关拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Crystal_Peak_Crushers_Chest",
+    "sheet": "UI",
+    "text": "水晶山峰钱箱机关拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Palace_Atrium",
+    "sheet": "UI",
+    "text": "白色宫殿中庭门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Palace_Right",
+    "sheet": "UI",
+    "text": "白色宫殿右门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Palace_Final",
+    "sheet": "UI",
+    "text": "白色宫殿上门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Path_of_Pain",
+    "sheet": "UI",
+    "text": "苦痛之路门拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Palace_Entrance_Orb",
+    "sheet": "UI",
+    "text": "白色宫殿入口光球拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Palace_Left_Orb",
+    "sheet": "UI",
+    "text": "白色宫殿左光球拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Palace_Right_Orb",
+    "sheet": "UI",
+    "text": "白色宫殿右光球拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Pilgrim's_Way_Left",
+    "sheet": "UI",
+    "text": "真菌荒地朝圣者之路左桥拉杆"
+  },
+  {
+    "key": "LEVERNAME.Lever-Pilgrim's_Way_Right",
+    "sheet": "UI",
+    "text": "真菌荒地朝圣者之路右桥拉杆"
+  }
+]
