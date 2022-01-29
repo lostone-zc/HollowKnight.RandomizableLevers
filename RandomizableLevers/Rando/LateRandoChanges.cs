@@ -14,7 +14,7 @@ namespace RandomizableLevers.Rando
 
         private static void RemoveExtraPlatforms()
         {
-            if (RandoInterop.Settings.拉杆随机 && RandomizerMod.RandomizerMod.RS.GenerationSettings is not null)
+            if (RandoInterop.Settings.拉干随机 && RandomizerMod.RandomizerMod.RS.GenerationSettings is not null)
             {
                 // Remove platforms in Waterways_04 in case they arrive there from the Waterways exit gate
                 List<IDeployer> deployers = ItemChanger.Internal.Ref.Settings.Deployers;

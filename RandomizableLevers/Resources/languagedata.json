@@ -1,317 +1,317 @@
-[
+﻿[
   {
     "key": "LEVER_SHOP_DESC",
     "sheet": "UI",
-    "text": "Pull the lever, Kronk!"
+    "text": "拉拉干, Kronk!"
   },
   {
     "key": "LEVERNAME.Switch-Dirtmouth_Stag",
     "sheet": "UI",
-    "text": "Dirtmouth Station Door"
+    "text": "德特茅斯站开关"
   },
   {
     "key": "LEVERNAME.Switch-Outside_Ancestral_Mound",
     "sheet": "UI",
-    "text": "Shaman Mound Pillar"
+    "text": "祖先山丘外柱子开关"
   },
   {
     "key": "LEVERNAME.Switch-Greenpath_Stag",
     "sheet": "UI",
-    "text": "Greenpath Stag Gate"
+    "text": "苍绿之径站外开关"
   },
   {
     "key": "LEVERNAME.Switch-Lower_Resting_Grounds",
     "sheet": "UI",
-    "text": "Resting Grounds Floor"
+    "text": "安息之地地板开关"
   },
   {
     "key": "LEVERNAME.Switch-Petra_Arena",
     "sheet": "UI",
-    "text": "Petra Arena Gate"
+    "text": "螳螂佩特拉遭遇战下开关"
   },
   {
     "key": "LEVERNAME.Switch-Queen's_Gardens_Stag",
     "sheet": "UI",
-    "text": "QG Stag Door"
+    "text": "王后花园站开关"
   },
   {
     "key": "LEVERNAME.Switch-Crossroads_East",
     "sheet": "UI",
-    "text": "East Crossroads Gate"
+    "text": "十字路右侧开关"
   },
   {
     "key": "LEVERNAME.Lever-Dung_Defender",
     "sheet": "UI",
-    "text": "Waterways Acid Pool"
+    "text": "下水道酸池拉干"
   },
   {
     "key": "LEVERNAME.Lever-Waterways_Hwurmp_Arena",
     "sheet": "UI",
-    "text": "Waterways Exit Gate"
+    "text": "下水道地图师拉干"
   },
   {
     "key": "LEVERNAME.Lever-Queen's_Station_Mask_Shard",
     "sheet": "UI",
-    "text": "QS Mask Gauntlet Exit"
+    "text": "王后驿站面具碎片拉干"
   },
   {
     "key": "LEVERNAME.Lever-Queen's_Gardens_Ground_Block",
     "sheet": "UI",
-    "text": "QG Ground Block"
+    "text": "王后花园地面阻隔拉干"
   },
   {
     "key": "LEVERNAME.Lever-Below_Overgrown_Mound",
     "sheet": "UI",
-    "text": "Overgrown Mound Gate"
+    "text": "长满蚊子的山丘外门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Tower_of_Love",
     "sheet": "UI",
-    "text": "Tower of Love Exit"
+    "text": "爱之塔门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Resting_Grounds_Stag",
     "sheet": "UI",
-    "text": "RG Stag Lever"
+    "text": "安息之地站拉干"
   },
   {
     "key": "LEVERNAME.Lever-Abyss_Lighthouse",
     "sheet": "UI",
-    "text": "Abyss Lighthouse"
+    "text": "深渊灯塔拉干"
   },
   {
     "key": "LEVERNAME.Lever-Failed_Tramway_Right",
     "sheet": "UI",
-    "text": "Tramway Lower Gate"
+    "text": "废弃车站下门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Failed_Tramway_Left",
     "sheet": "UI",
-    "text": "Tramway Exit Gates"
+    "text": "废弃车站上门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Below_Spell_Twister",
     "sheet": "UI",
-    "text": "Gate Below Spell Twister"
+    "text": "法术扭曲者下门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Sanctum_East",
     "sheet": "UI",
-    "text": "East Sanctum Gate"
+    "text": "灵魂圣所右侧拉干"
   },
   {
     "key": "LEVERNAME.Lever-Sanctum_Soul_Warrior",
     "sheet": "UI",
-    "text": "Soul Warrior 1 Arena Gate"
+    "text": "圣所灵魂战士拉干"
   },
   {
     "key": "LEVERNAME.Lever-Sanctum_Bottom",
     "sheet": "UI",
-    "text": "Lower Sanctum Gate"
+    "text": "灵魂圣所底部拉干"
   },
   {
     "key": "LEVERNAME.Lever-Sanctum_West_Upper",
     "sheet": "UI",
-    "text": "West Sanctum Upper Gate"
+    "text": "灵魂圣所左侧上层拉干"
   },
   {
     "key": "LEVERNAME.Lever-Sanctum_West_Lower",
     "sheet": "UI",
-    "text": "West Sanctum Lower Gate"
+    "text": "灵魂圣所左侧下层拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Fountain",
     "sheet": "UI",
-    "text": "City Fountain Gate"
+    "text": "泪水之城喷泉门拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Spire_Sentry_Lower",
     "sheet": "UI",
-    "text": "Spire Lower Gate"
+    "text": "守望者尖塔下门拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Spire_Sentry_Upper",
     "sheet": "UI",
-    "text": "Spire Upper Gate"
+    "text": "守望者尖塔上门拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Bridge_Above_Fountain",
     "sheet": "UI",
-    "text": "Spire Bridge Gate"
+    "text": "守望者尖塔长廊门拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Storerooms",
     "sheet": "UI",
-    "text": "City Storerooms Gate"
+    "text": "城市仓库门拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Lemm",
     "sheet": "UI",
-    "text": "Gate Opposite Lemm"
+    "text": "古董商门拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Above_Lemm_Right",
     "sheet": "UI",
-    "text": "Single Gate Above Lemm"
+    "text": "古董商上单门拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Above_Lemm_Left",
     "sheet": "UI",
-    "text": "Triple Gate Above Lemm"
+    "text": "古董商上三门拉干"
   },
   {
     "key": "LEVERNAME.Lever-City_Above_Lemm_Upper",
     "sheet": "UI",
-    "text": "City Gate Opposite Grub"
+    "text": "泪水之城虫对面门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Shade_Soul_Exit",
     "sheet": "UI",
-    "text": "Shade Soul Exit Gate"
+    "text": "黑波门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Emilitia",
     "sheet": "UI",
-    "text": "Emilitia Door"
+    "text": "贵族艾米丽塔门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Mantis_Lords_Top_Left",
     "sheet": "UI",
-    "text": "Mantis Lords Top Left"
+    "text": "螳螂领主左上拉干"
   },
   {
     "key": "LEVERNAME.Lever-Mantis_Lords_Middle_Left",
     "sheet": "UI",
-    "text": "Mantis Lords Middle Left"
+    "text": "螳螂领主左中拉干"
   },
   {
     "key": "LEVERNAME.Lever-Mantis_Lords_Bottom_Left",
     "sheet": "UI",
-    "text": "Mantis Lords Bottom Left"
+    "text": "螳螂领主左下拉干"
   },
   {
     "key": "LEVERNAME.Lever-Mantis_Lords_Middle_Right",
     "sheet": "UI",
-    "text": "Mantis Lords Middle Right"
+    "text": "螳螂领主右中拉干"
   },
   {
     "key": "LEVERNAME.Lever-Mantis_Lords_Bottom_Right",
     "sheet": "UI",
-    "text": "Mantis Lords Bottom Right"
+    "text": "螳螂领主右下拉干"
   },
   {
     "key": "LEVERNAME.Lever-Mantis_Claw",
     "sheet": "UI",
-    "text": "Mantis Claw Access"
+    "text": "看螳螂爪拉干"
   },
   {
     "key": "LEVERNAME.Lever-Mantis_Lords_Access",
     "sheet": "UI",
-    "text": "Mantis Lords Access"
+    "text": "看螳螂领主拉干"
   },
   {
     "key": "LEVERNAME.Lever-Fungal_Wastes_Thorns_Gauntlet",
     "sheet": "UI",
-    "text": "Fungal Thorns Gauntlet Exit"
+    "text": "拜年菇古董门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Fungal_Wastes_Below_Shrumal_Ogres",
     "sheet": "UI",
-    "text": "Gate Below Shrumal Ogres"
+    "text": "拜年菇下门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Fungal_Wastes_Bouncy_Grub",
     "sheet": "UI",
-    "text": "Fungal Bouncy Grub Gate"
+    "text": "真菌荒地弹力菇幼虫门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Dirtmouth_Elevator",
     "sheet": "UI",
-    "text": "Dirtmouth Elevator"
+    "text": "德特茅斯右电梯拉干"
   },
   {
     "key": "LEVERNAME.Lever-Crystal_Peak_Tall_Room_Upper",
     "sheet": "UI",
-    "text": "Peaks Tall Room Upper"
+    "text": "水晶山峰高的房间上拉干"
   },
   {
     "key": "LEVERNAME.Lever-Crystal_Peak_Tall_Room_Middle",
     "sheet": "UI",
-    "text": "Peaks Tall Room Middle"
+    "text": "水晶山峰高的房间中拉干"
   },
   {
     "key": "LEVERNAME.Lever-Crystal_Peak_Tall_Room_Lower",
     "sheet": "UI",
-    "text": "Peaks Tall Room Lower"
+    "text": "水晶山峰高的房间下拉干"
   },
   {
     "key": "LEVERNAME.Lever-Crystal_Peak_Spike_Grub",
     "sheet": "UI",
-    "text": "Peaks Spike Grub Gate"
+    "text": "水晶山峰钻刺幼虫拉干"
   },
   {
     "key": "LEVERNAME.Lever-Crystal_Peak_Below_Chest",
     "sheet": "UI",
-    "text": "Peaks Gate Below Chest"
+    "text": "水晶山峰钱箱下门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Crystal_Peak_Above_Chest",
     "sheet": "UI",
-    "text": "Peaks Gate Above Chest"
+    "text": "水晶山峰钱箱上门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Crystal_Peak_Crushers_Grub",
     "sheet": "UI",
-    "text": "Peaks Upper Crushers"
+    "text": "水晶山峰幼虫机关拉干"
   },
   {
     "key": "LEVERNAME.Lever-Crystal_Peak_Crushers_Chest",
     "sheet": "UI",
-    "text": "Peaks Lower Crushers"
+    "text": "水晶山峰钱箱机关拉干"
   },
   {
     "key": "LEVERNAME.Lever-Palace_Atrium",
     "sheet": "UI",
-    "text": "Palace Atrium Gate"
+    "text": "白色宫殿中庭门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Palace_Right",
     "sheet": "UI",
-    "text": "Palace Right Gates"
+    "text": "白色宫殿右门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Palace_Final",
     "sheet": "UI",
-    "text": "Palace Final Gates"
+    "text": "白色宫殿上门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Path_of_Pain",
     "sheet": "UI",
-    "text": "Path of Pain Gate"
+    "text": "苦痛之路门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Palace_Entrance_Orb",
     "sheet": "UI",
-    "text": "Palace Entrance Orb"
+    "text": "白色宫殿入口光球拉干"
   },
   {
     "key": "LEVERNAME.Lever-Palace_Left_Orb",
     "sheet": "UI",
-    "text": "Palace Left Orb"
+    "text": "白色宫殿左光球拉干"
   },
   {
     "key": "LEVERNAME.Lever-Palace_Right_Orb",
     "sheet": "UI",
-    "text": "Palace Right Orb"
+    "text": "白色宫殿右光球拉干"
   },
   {
     "key": "LEVERNAME.Lever-Pilgrim's_Way_Left",
     "sheet": "UI",
-    "text": "Left Pilgrim's Way Bridge"
+    "text": "真菌荒地朝圣者之路左桥拉干"
   },
   {
     "key": "LEVERNAME.Lever-Pilgrim's_Way_Right",
     "sheet": "UI",
-    "text": "Right Pilgrim's Way Bridge"
+    "text": "真菌荒地朝圣者之路右桥拉干"
   }
 ]

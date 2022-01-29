@@ -74,15 +74,15 @@ namespace RandomizableLevers.Rando
 
             HashSet<string> leverNames = new(LeverNames.ToArray());
             
-            if (rb.gs.SplitGroupSettings.RandomizeOnStart && RandoInterop.Settings.拉杆随机组别 >= 0 && RandoInterop.Settings.拉杆随机组别 <= 2)
+            if (rb.gs.SplitGroupSettings.RandomizeOnStart && RandoInterop.Settings.拉干随机组别 >= 0 && RandoInterop.Settings.拉干随机组别 <= 2)
             {
-                RandoInterop.Settings.拉杆随机组别 = rb.rng.Next(3);
+                RandoInterop.Settings.拉干随机组别 = rb.rng.Next(3);
             }
             // If the value is 0 or -1, then levers will be placed in the main item group by default, so we don't need a resolver.
-            if (RandoInterop.Settings.拉杆随机组别 > 0)
+            if (RandoInterop.Settings.拉干随机组别 > 0)
             {
                 ItemGroupBuilder leverGroup = null;
-                string label = RBConsts.SplitGroupPrefix + RandoInterop.Settings.拉杆随机组别;
+                string label = RBConsts.SplitGroupPrefix + RandoInterop.Settings.拉干随机组别;
                 foreach (ItemGroupBuilder igb in rb.EnumerateItemGroups())
                 {
                     if (igb.label == label)
@@ -121,7 +121,7 @@ namespace RandomizableLevers.Rando
                 return;
             }
 
-            if (!RandoInterop.Settings.拉杆随机)
+            if (!RandoInterop.Settings.拉干随机)
             {
                 foreach (string lever in LeverNames.ToArray())
                 {
