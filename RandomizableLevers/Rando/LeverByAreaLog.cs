@@ -117,7 +117,7 @@ namespace RandomizableLevers.Rando
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Abyss_Lighthouse);
             sb.AppendLine();
 
-            sb.AppendLine("废弃电车:");
+            sb.AppendLine("废弃电车轨道:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Failed_Tramway_Right);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Failed_Tramway_Left);
             sb.AppendLine();

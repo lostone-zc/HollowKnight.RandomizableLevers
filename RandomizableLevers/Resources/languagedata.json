@@ -82,12 +82,12 @@
   {
     "key": "LEVERNAME.Lever-Failed_Tramway_Right",
     "sheet": "UI",
-    "text": "废弃车站下门拉干"
+    "text": "废弃电车轨道下门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Failed_Tramway_Left",
     "sheet": "UI",
-    "text": "废弃车站上门拉干"
+    "text": "废弃电车轨道上门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Below_Spell_Twister",
