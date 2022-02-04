@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name": "Switch-Greenpath_Stag",
         "logic": "Fungus1_22[top1] | Fungus1_22[left1] | Fungus1_22[bot1] + Switch-Greenpath_Stag"
@@ -141,7 +141,7 @@
     },
     {
         "name": "Lever-Crystal_Peak_Below_Chest",
-        "logic": "Mines_04[top1] | Mines_04 + (LEFTCLAW | WINGS) + Lever-Crystal_Peak_Below_Chest"
+        "logic": "Mines_04[top1] | Mines_04 + (LEFTCLAW | WINGS + ENEMYPOGOS) + Lever-Crystal_Peak_Below_Chest"
     },
     {
         "name": "Lever-Crystal_Peak_Crushers_Chest",
@@ -175,5 +175,4 @@
         "name": "Lever-Pilgrim's_Way_Right",
         "logic": "Fungus2_21[left1] + ((RIGHTCLAW + (RIGHTDASH | (WINGS + AIRSTALL))) | RIGHTSUPERDASH | ACID | Lever-Pilgrim's_Way_Left + Lever-Pilgrim's_Way_Right) | Fungus2_21[right1] + ((FULLCLAW + (LEFTDASH | LEFTSUPERDASH)) | (ANYCLAW + WINGS)) + QUAKE"
     }
-
 ]
