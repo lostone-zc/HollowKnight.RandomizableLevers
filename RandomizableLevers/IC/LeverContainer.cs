@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using HutongGames.PlayMaker;
@@ -81,7 +81,7 @@ namespace RandomizableLevers.IC
                     {
                         GameObject shiny = ShinyUtility.MakeNewShiny(info.placement, item, info.flingType);
                         shiny.transform.SetPosition2D(fsm.transform.position.x, fsm.transform.position.y);
-                        ShinyUtility.FlingShinyRandomly(shiny.LocateFSM("Shiny Control"));
+                        ShinyUtility.FlingShinyRandomly(shiny.LocateMyFSM("Shiny Control"));
                         shiny.SetActive(true);
                     }
                 }
