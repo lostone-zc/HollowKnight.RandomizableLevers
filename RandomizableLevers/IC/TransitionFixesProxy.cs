@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using ItemChanger;
 using ItemChanger.Modules;
 
@@ -53,6 +53,9 @@ namespace RandomizableLevers.IC
                     case SceneNames.Room_Town_Stag_Station when t.GateName == "left1":
                     case SceneNames.Town when t.GateName == "door_station":
                         Finder.GetItem(LeverNames.Switch_Dirtmouth_Stag).GiveImmediate(null);
+                        break;
+                    case SceneNames.Fungus2_14 when t.GateName.StartsWith("bot"):
+                        Finder.GetItem(LeverNames.Lever_Mantis_Lords_Access).GiveImmediate(null);
                         break;
                 }
             }
