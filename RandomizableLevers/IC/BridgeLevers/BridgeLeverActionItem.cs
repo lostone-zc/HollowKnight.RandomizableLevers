@@ -1,4 +1,4 @@
-﻿using ItemChanger;
+using ItemChanger;
 
 namespace RandomizableLevers.IC.BridgeLevers
 {

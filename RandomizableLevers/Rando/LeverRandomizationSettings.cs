@@ -1,4 +1,4 @@
-﻿namespace RandomizableLevers.Rando
+namespace RandomizableLevers.Rando
 {
     public class LeverRandomizationSettings
     {

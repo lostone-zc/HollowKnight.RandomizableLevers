@@ -1,4 +1,4 @@
-﻿namespace RandomizableLevers
+namespace RandomizableLevers
 {
     public enum LeverType
     {

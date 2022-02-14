@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name": "Opened_Waterways_Exit",
         "logic": "ORIG | $StartLocation[West Waterways]"
