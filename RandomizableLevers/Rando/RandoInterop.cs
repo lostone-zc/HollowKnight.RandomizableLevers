@@ -18,9 +18,9 @@ namespace RandomizableLevers.Rando
             SettingsLog.AfterLogSettings += AddLeverRandoSettings;
 
             // Add important levers to the condensed spoiler log
-            CondensedSpoilerLogger.AddCategory("Access Levers", (args) => true, AccessLevers);
-            CondensedSpoilerLogger.AddCategory("Useful Levers", (args) => true, UsefulLevers);
-            CondensedSpoilerLogger.AddCategory("Palace Levers", (args) => true, PalaceLevers);
+            CondensedSpoilerLogger.AddCategory("通路拉干", (args) => true, AccessLevers);
+            CondensedSpoilerLogger.AddCategory("有用拉干", (args) => true, UsefulLevers);
+            CondensedSpoilerLogger.AddCategory("白宫拉干", (args) => true, PalaceLevers);
 
             if (ModHooks.GetMod(nameof(CondensedSpoilerLogger)) is not null)
             {
