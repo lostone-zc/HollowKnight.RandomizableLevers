@@ -2,7 +2,7 @@
   {
     "key": "LEVER_SHOP_DESC",
     "sheet": "UI",
-    "text": "拉拉干, Kronk!"
+    "text": "拉拉干, Kronk！"
   },
   {
     "key": "LEVERNAME.Switch-Dirtmouth_Stag",
@@ -62,7 +62,7 @@
   {
     "key": "LEVERNAME.Lever-Below_Overgrown_Mound",
     "sheet": "UI",
-    "text": "长满蚊子的山丘外门拉干"
+    "text": "长满植物的山丘外门拉干"
   },
   {
     "key": "LEVERNAME.Lever-Tower_of_Love",
