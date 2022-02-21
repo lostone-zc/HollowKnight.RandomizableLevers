@@ -22,34 +22,34 @@ namespace RandomizableLevers.Rando
             SpoilerReader sr = new(args);
             sr.Indent = 2;
 
-            sb.AppendLine($"Lever spoiler for seed: {args.gs.Seed}");
+            sb.AppendLine($"Lever spoiler for 种子: {args.gs.Seed}");
             sb.AppendLine();
 
-            sb.AppendLine("Dirtmouth:");
+            sb.AppendLine("德特茅斯:");
             sr.AddItemToStringBuilder(sb, LeverNames.Switch_Dirtmouth_Stag);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Dirtmouth_Elevator);
             sb.AppendLine();
 
-            sb.AppendLine("Forgotten Crossroads:");
+            sb.AppendLine("十字路:");
             sr.AddItemToStringBuilder(sb, LeverNames.Switch_Outside_Ancestral_Mound);
             sr.AddItemToStringBuilder(sb, LeverNames.Switch_Crossroads_East);
             sb.AppendLine();
 
-            sb.AppendLine("Greenpath:");
+            sb.AppendLine("苍绿之径:");
             sr.AddItemToStringBuilder(sb, LeverNames.Switch_Greenpath_Stag);
             sb.AppendLine();
 
-            sb.AppendLine("Fog Canyon:");
+            sb.AppendLine("雾之峡谷:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Below_Overgrown_Mound);
             sb.AppendLine();
 
-            sb.AppendLine("Queen's Gardens:");
+            sb.AppendLine("王后花园:");
             sr.AddItemToStringBuilder(sb, LeverNames.Switch_Petra_Arena);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Queens_Gardens_Ground_Block);
             sr.AddItemToStringBuilder(sb, LeverNames.Switch_Queens_Gardens_Stag);
             sb.AppendLine();
 
-            sb.AppendLine("Fungal Wastes:");
+            sb.AppendLine("真菌荒地:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Queens_Station_Mask_Shard);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Fungal_Wastes_Below_Shrumal_Ogres);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Fungal_Wastes_Thorns_Gauntlet);
@@ -58,7 +58,7 @@ namespace RandomizableLevers.Rando
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Pilgrims_Way_Right);
             sb.AppendLine();
 
-            sb.AppendLine("Mantis Village:");
+            sb.AppendLine("螳螂村:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Mantis_Claw);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Mantis_Lords_Access);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Mantis_Lords_Top_Left);
@@ -68,7 +68,7 @@ namespace RandomizableLevers.Rando
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Mantis_Lords_Bottom_Right);
             sb.AppendLine();
 
-            sb.AppendLine("City of Tears:");
+            sb.AppendLine("泪水之城:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_City_Above_Lemm_Left);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_City_Above_Lemm_Right);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_City_Above_Lemm_Upper);
@@ -83,7 +83,7 @@ namespace RandomizableLevers.Rando
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Tower_of_Love);
             sb.AppendLine();
 
-            sb.AppendLine("Soul Sanctum:");
+            sb.AppendLine("灵魂圣所:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Sanctum_Soul_Warrior);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Sanctum_Bottom);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Below_Spell_Twister);
@@ -92,12 +92,12 @@ namespace RandomizableLevers.Rando
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Sanctum_West_Lower);
             sb.AppendLine();
 
-            sb.AppendLine("Royal Waterways:");
+            sb.AppendLine("皇家水道:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Dung_Defender);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Waterways_Hwurmp_Arena);
             sb.AppendLine();
 
-            sb.AppendLine("Crystal Peak:");
+            sb.AppendLine("水晶山峰:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Crystal_Peak_Spike_Grub);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Crystal_Peak_Tall_Room_Upper);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Crystal_Peak_Tall_Room_Middle);
@@ -108,23 +108,23 @@ namespace RandomizableLevers.Rando
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Crystal_Peak_Crushers_Chest);
             sb.AppendLine();
 
-            sb.AppendLine("Resting Grounds:");
+            sb.AppendLine("安息之地:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Resting_Grounds_Stag);
             sr.AddItemToStringBuilder(sb, LeverNames.Switch_Lower_Resting_Grounds);
             sb.AppendLine();
 
-            sb.AppendLine("Abyss:");
+            sb.AppendLine("深渊:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Abyss_Lighthouse);
             sb.AppendLine();
 
-            sb.AppendLine("Failed Tramway:");
+            sb.AppendLine("废弃电车轨道:");
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Failed_Tramway_Right);
             sr.AddItemToStringBuilder(sb, LeverNames.Lever_Failed_Tramway_Left);
             sb.AppendLine();
 
             if (args.gs.LongLocationSettings.WhitePalaceRando != RandomizerMod.Settings.LongLocationSettings.WPSetting.ExcludeWhitePalace)
             {
-                sb.AppendLine("White Palace:");
+                sb.AppendLine("白色宫殿:");
                 sr.AddItemToStringBuilder(sb, LeverNames.Lever_Palace_Entrance_Orb);
                 sr.AddItemToStringBuilder(sb, LeverNames.Lever_Palace_Left_Orb);
                 sr.AddItemToStringBuilder(sb, LeverNames.Lever_Palace_Right_Orb);
@@ -135,7 +135,7 @@ namespace RandomizableLevers.Rando
                 sb.AppendLine();
             }
 
-            LogManager.Write(sb.ToString(), "LeversByAreaSpoiler.txt");
+            LogManager.Write(sb.ToString(), "各区域内拉干剧透日志.txt");
         }
     }
 }
