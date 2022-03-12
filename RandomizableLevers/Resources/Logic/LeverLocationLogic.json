@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "name": "Switch-Greenpath_Stag",
         "logic": "Fungus1_22[top1] | Fungus1_22[left1] | Fungus1_22[bot1] + Switch-Greenpath_Stag"
@@ -41,7 +41,7 @@
     },
     {
         "name": "Lever-Sanctum_Bottom",
-        "logic": "Ruins1_23[right2] | Ruins1_23 + Lever-Sanctum_Bottom"
+        "logic": "Ruins1_23[right2] | Ruins1_23 + (ANYCLAW | WINGS) + Lever-Sanctum_Bottom"
     },
     {
         "name": "Lever-Sanctum_West_Upper",
@@ -175,4 +175,5 @@
         "name": "Lever-Pilgrim's_Way_Right",
         "logic": "Fungus2_21[left1] + ((RIGHTCLAW + (RIGHTDASH | (WINGS + AIRSTALL))) | RIGHTSUPERDASH | ACID | Lever-Pilgrim's_Way_Left + Lever-Pilgrim's_Way_Right) | Fungus2_21[right1] + ((FULLCLAW + (LEFTDASH | LEFTSUPERDASH)) | (ANYCLAW + WINGS)) + QUAKE"
     }
+
 ]
